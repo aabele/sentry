@@ -108,7 +108,7 @@ install_requires = [
     'hiredis>=0.1.0,<0.2.0',
     'ipaddr>=2.1.11,<2.2.0',
     'kombu==3.0.30',
-    'lxml>=3.4.1',
+    'lxml>=3.2.1',
     'mock>=0.8.0,<1.1',
     'petname>=1.7,<1.8',
     'progressbar>=2.2,<2.4',
